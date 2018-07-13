@@ -22,6 +22,7 @@ public class Approximate_Value {
 			}
 
 		}
+		
 		System.out.println("50에 가장 가까운 수의 위치 : " + index);
 	}
 
